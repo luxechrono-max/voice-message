@@ -1,0 +1,9 @@
+{
+  "name": "voice-message-ogg-converter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tiny MP3 to OGG/Opus HTTP converter for the Sanne/Walid bot",
+  "type": "commonjs",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
